@@ -1,11 +1,11 @@
 <div align="center">
 
 # Sparsh Gupta
-### AI & GenAI Developer | RAG Systems | LLMs | Python
+### AI & GenAI Developer | RAG Systems | LLMs | Python | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-gupta-042186301)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sparsh2509)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshgupta250904@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sparsh2509&color=0A66C2&style=for-the-badge)](https://github.com/Sparsh2509)
 
 </div>
@@ -106,14 +106,6 @@ I'm a passionate **AI & GenAI Developer** who builds and deploys real-world inte
 - Covers **supervised & unsupervised learning** algorithms
 - Built with **Python & NumPy** to understand internals deeply
 - Great reference for anyone learning ML from the ground up
-
----
-
-### 📱 [Hola App](https://github.com/Sparsh2509/Hola_App)
-> Cross-platform mobile application built with Flutter & Dart
-
-- Clean UI/UX with smooth user interactions
-- Built with **Dart & Flutter** for Android & iOS
 
 ---
 
