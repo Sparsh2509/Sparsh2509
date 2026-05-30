@@ -1,11 +1,12 @@
 <div align="center">
 
 # Sparsh Gupta
-### AI & GenAI Developer | Python | Machine Learning | LLMs
+### AI & GenAI Developer | RAG Systems | LLMs | Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-gupta-042186301)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sparsh2509)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sparsh2509&color=0A66C2&style=for-the-badge)](https://github.com/Sparsh2509)
 
 </div>
 
@@ -13,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **AI & GenAI Developer** focused on building intelligent systems using Large Language Models, Machine Learning, and modern AI frameworks. I love turning complex AI concepts into real-world applications that solve meaningful problems.
+I'm a passionate **AI & GenAI Developer** who builds and deploys real-world intelligent systems using RAG pipelines, Large Language Models, and Vector Databases. I don't just learn concepts — I ship working, deployed applications.
 
-- 🔭 Currently building **GenAI & LLM-powered applications**
-- 🌱 Exploring **Agentic AI, RAG pipelines & fine-tuning**
-- 💡 Interested in **AI for real-world problem solving**
+- 🔭 Building **production-ready RAG & LLM applications** with live deployments
+- 🌱 Exploring **Agentic AI, fine-tuning & multi-modal systems**
+- 🚀 All major projects are **live and accessible** — not just on GitHub
 - 📍 Based in **India**
 - 🤝 Open to **internships & entry-level AI/ML opportunities**
 
@@ -25,56 +26,94 @@ I'm a passionate **AI & GenAI Developer** focused on building intelligent system
 
 ## 🛠️ Tech Stack
 
-**AI & ML**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Data & Databases**
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Vector Databases & Storage**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**
+**Deployment & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [Hola App](https://github.com/Sparsh2509/Hola_App)
-> A Flutter-based mobile application
-- Built with **Dart & Flutter** for cross-platform mobile experience
-- Clean UI with smooth user interactions
+### 🏛️ [AI Government Scheme Finder — RAG](https://github.com/Sparsh2509/AI_Government_Scheme_Finder_Using_Rag)
+> Helps Indian citizens discover relevant government schemes using RAG + Gemini AI
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Streamlit-FF4B4B?style=flat-square)](https://aigovernmentschemefinderusingrag-tfhncfcuspjwp3zztmgwzf.streamlit.app/)
+[![REST API](https://img.shields.io/badge/🔌%20REST%20API-Render-46E3B7?style=flat-square)](https://ai-government-scheme-finder-using-rag.onrender.com)
+
+- Built full **RAG pipeline** with **Qdrant Cloud Vector DB** + **HuggingFace embeddings**
+- Uses **Gemini 2.5 Flash** to generate personalized eligibility reports
+- Exposed as **REST API via FastAPI** and deployed on Render
+- Takes user profile (age, income, state, category) → returns matched government schemes
+- **Stack:** Python · LangChain · Qdrant · HuggingFace · Gemini · FastAPI · Streamlit
 
 ---
 
-### 🏋️ [Sports Complex Management](https://github.com/Sparsh2509/Sports_Complex)
-> Python-based sports facility management system
-- Manages bookings, members, and facility scheduling
-- Built with **Python** and database integration
+### 📧 [AI Email Copilot — RAG](https://github.com/Sparsh2509/AI_Email_Generator_Using_Rag)
+> Generates professional, context-aware emails using semantic template retrieval
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Streamlit-FF4B4B?style=flat-square)](https://aiemailgeneratorusingrag-lfcvucjigqzpjmza3ruhhg.streamlit.app/)
+
+- Built **RAG pipeline** with **FAISS vector search** over curated email templates
+- Supports Cold Email, Internship Request, Follow-up, Apology, Sales Outreach
+- User inputs tone, purpose, key points → AI generates structured professional email
+- **Stack:** Python · LangChain · FAISS · HuggingFace · Gemini · Streamlit
 
 ---
 
-### 📝 [MCQ Portal](https://github.com/Sparsh2509/MCQ-Portal)
-> Automated quiz and assessment platform
-- Dynamic question generation and evaluation
-- Built with **Python** with clean backend logic
+### 👁️ [Face Recognition Attendance System](https://github.com/Sparsh2509/Face_Recognition_Attendance_System)
+> Automated attendance marking using real-time face detection
+
+- Real-time face detection and recognition using **OpenCV & deep learning**
+- Automatically marks attendance when a face is recognized
+- Practical CV application with real institutional use case
+- **Stack:** Python · OpenCV · Deep Learning · SQL
 
 ---
 
-### 🧠 [ML Algorithms](https://github.com/Sparsh2509/ML_Algorithms)
-> Collection of implemented Machine Learning algorithms from scratch
-- Covers **supervised & unsupervised learning** concepts
-- Great reference for understanding ML fundamentals
+### 🧠 [ML Algorithms from Scratch](https://github.com/Sparsh2509/ML_Algorithms)
+> Core ML algorithms implemented from scratch — no shortcuts, pure fundamentals
+
+- Covers **supervised & unsupervised learning** algorithms
+- Built with **Python & NumPy** to understand internals deeply
+- Great reference for anyone learning ML from the ground up
+
+---
+
+### 📱 [Hola App](https://github.com/Sparsh2509/Hola_App)
+> Cross-platform mobile application built with Flutter & Dart
+
+- Clean UI/UX with smooth user interactions
+- Built with **Dart & Flutter** for Android & iOS
 
 ---
 
@@ -82,9 +121,9 @@ I'm a passionate **AI & GenAI Developer** focused on building intelligent system
 
 <div align="center">
 
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh2509&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh2509&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh2509&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh2509&theme=github-dark-blue&hide_border=true)
 
@@ -99,7 +138,7 @@ I'm actively seeking **internship or entry-level opportunities** in:
 - 🧠 Machine Learning Engineering
 - 📊 Data Science & Analytics
 
-I bring **strong fundamentals, hands-on project experience, and a hunger to learn fast.**
+I bring **2,054+ contributions, live deployed projects, and hands-on RAG & LLM experience.**
 
 ---
 
@@ -114,7 +153,5 @@ If you're building something cool in AI or have an opportunity — I'd love to t
 <div align="center">
 
 *"The best way to predict the future is to build it."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sparsh2509&color=0A66C2&style=for-the-badge)
 
 </div>
