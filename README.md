@@ -113,9 +113,9 @@ I'm a passionate **AI & GenAI Developer** who builds and deploys real-world inte
 
 <div align="center">
 
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh2509&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparsh2509&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh2509&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh2509&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh2509&theme=github-dark-blue&hide_border=true)
 
