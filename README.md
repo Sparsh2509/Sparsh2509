@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sparsh Gupta
+# Hi, I'm Sparsh Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ### AI & GenAI Developer | RAG Systems | LLMs | Python | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-gupta-042186301)
