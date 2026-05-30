@@ -92,10 +92,11 @@ I'm a passionate **AI & GenAI Developer** who builds and deploys real-world inte
 ### 👁️ [Face Recognition Attendance System](https://github.com/Sparsh2509/Face_Recognition_Attendance_System)
 > Automated attendance marking using real-time face detection
 
-- Real-time face detection and recognition using **OpenCV & deep learning**
+- Real-time face detection using **MediaPipe** for landmark detection
+- Face encoding and recognition using **SFace** model
 - Automatically marks attendance when a face is recognized
 - Practical CV application with real institutional use case
-- **Stack:** Python · OpenCV · Deep Learning · SQL
+- **Stack:** Python · MediaPipe · SFace · OpenCV · SQL· NeonDB
 
 ---
 
