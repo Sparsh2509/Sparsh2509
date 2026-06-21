@@ -4,7 +4,7 @@
 ### AI & GenAI Developer | RAG Systems | LLMs | Python | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-gupta-042186301)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Sparsh2509/Sparsh2509/blob/main/Sparsh_Gupta_Resume_GenAI.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Sparsh2509/Sparsh2509/blob/main/Sparsh_Gupta_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshgupta250904@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sparsh2509&color=0A66C2&style=for-the-badge)](https://github.com/Sparsh2509)
 
